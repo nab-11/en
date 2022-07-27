@@ -1,4 +1,4 @@
-.runclock {
+.ml15 {
     position: absolute;
     top: 50%;
     left: 50%;
@@ -6,6 +6,5 @@
     color: #17D4FE;
     font-size: 64px;
     font-family: Orbitron;
-    letter-spacing: 5px;
-   
+    letter-spacing: 5px; 
 }
