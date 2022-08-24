@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Quicksand:400,500,700');
+
 html,
 body {
     margin: 0;
@@ -34,6 +35,11 @@ body {
 
 .nav div.logo a:hover {
     color: #00E676;
+}
+
+.nav div.logo a img {
+  height: 48px;
+  width: 64px;
 }
 
 .nav div.main_list {
