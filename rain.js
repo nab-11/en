@@ -4,11 +4,10 @@ const context = canvas.getContext('2d');
 canvas.width = window.innerWidth;
 canvas.height = window.innerHeight;
 
-const katakana = '1';
-const latin = '0';
-const nums = '1';
 
-const alphabet = katakana + latin + nums;
+const nums = '1', '0';
+
+const alphabet = nums[0], num[1];
 
 const fontSize = 24;
 const columns = canvas.width/fontSize;
